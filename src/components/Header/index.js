@@ -24,7 +24,7 @@ export default function Header() {
       <HeaderWrapper>
         <WrapperInfo>
           <SpanInfo>
-            Todo - <a href="http">Refresh</a>
+            Minha Lista de Tarefas Importantes - <a href="http">Refresh</a>
           </SpanInfo>
 
           <WrapperInfoUser>

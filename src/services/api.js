@@ -44,7 +44,7 @@ export function loadLists() {
     {
       title: 'Tasks I am doing...',
       creatable: true,
-      phrase: 'Tasks you working now!',
+      phrase: 'Tasks I am working now, need to finish!',
       cards: [
         {
           id: 5,
@@ -61,29 +61,29 @@ export function loadLists() {
     {
       title: 'Paused',
       creatable: true,
-      phrase: 'Paused tasks here.',
+      phrase: 'Paused tasks here. Dont forget',
       cards: [
         {
           id: 6,
           content:
-            'Estudar sobre a diferença dos pré-processadores SASS x LESS',
+            'Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego',
           priority: 'Alta prioridade',
           date: '29/02/2020 17:05',
-          dateCard: 'Fev, 29',
+          dateCard: 'Feb, 29',
           labels: ['#7159c1'],
           user:
             'https://raw.githubusercontent.com/diegoAndrade777/rocketfy/master/src/assets/filipe-deschamps.png'
         },
         {
           id: 7,
-          content: 'Atualizar as extensões do VSCode',
+          content: 'Estudar Gatsby',
           priority: 'Neutra',
           labels: ['#3490D1'],
           user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
         },
         {
           id: 8,
-          content: 'Entender melhor sobre as diferentes medidas do CSS',
+          content: 'Estudar AWS, Google Cloud',
           priority: 'Indefinida',
           labels: ['#EAEDF1']
         }
@@ -93,24 +93,23 @@ export function loadLists() {
       title: 'Done!',
       creatable: true,
       done: true,
-      phrase: 'All tasks are done!',
+      phrase: 'Finished, tasks done!',
       cards: [
         {
           id: 9,
-          content:
-            'Postar artigo sobre O que meu Eu de agora diria ao meu Eu de 7 anos atrás',
+          content: 'Subir no NetFly estudos sobre flexbox - Twiter clone',
           priority: 'Indefinida',
           labels: ['#EAEDF1']
         },
         {
           id: 10,
-          content: 'Entender um pouco mais sobre o Docker',
+          content: 'Subir no Netfly estudo sobre responsibilidade',
           priority: 'Crítica',
           labels: ['#000000']
         },
         {
           id: 11,
-          content: 'Lotion e Notion para realizar anotações',
+          content: 'Enviar emails importantes',
           priority: 'Alta prioridade',
           labels: ['#7159c1']
         }
