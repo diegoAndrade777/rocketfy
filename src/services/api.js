@@ -12,7 +12,7 @@ export function loadLists() {
           priority: 'Medium',
           labels: ['#5BC25B'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/diego-fernandes.png'
+            'https://github.com/diegoAndrade777/rocketfy/blob/master/src/assets/diego-fernandes.png'
         },
         {
           id: 2,
@@ -20,7 +20,7 @@ export function loadLists() {
           priority: 'Neutra',
           labels: ['#3490D1'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/filipe-deschamps.png'
+            'https://github.com/diegoAndrade777/rocketfy/blob/master/src/assets/filipe-deschamps.png'
         },
         {
           id: 3,
@@ -37,7 +37,7 @@ export function loadLists() {
           priority: 'Neutra',
           labels: ['#3490D1'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/avatar.jpg'
+            'https://github.com/diegoAndrade777/rocketfy/blob/master/src/assets/avatar.jpg'
         }
       ]
     },
@@ -54,7 +54,7 @@ export function loadLists() {
           dateCard: 'Feb, 29',
           labels: ['#000'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/avatar.jpg'
+            'https://github.com/diegoAndrade777/rocketfy/blob/master/src/assets/avatar.jpg'
         }
       ]
     },
@@ -72,7 +72,7 @@ export function loadLists() {
           dateCard: 'Fev, 29',
           labels: ['#7159c1'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/filipe-deschamps.png'
+            'https://github.com/diegoAndrade777/rocketfy/blob/master/src/assets/filipe-deschamps.png'
         },
         {
           id: 7,
