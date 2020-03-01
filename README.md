@@ -1,25 +1,24 @@
 # Rocketfy
 
-Este é o clone do [Pipefy](https://www.pipefy.com/pt-br/) que foi criado a partir da [aula de drag'n drop da Rocketseat.](https://www.youtube.com/results?search_query=drag+%27n+drop+rocketseat).
+[Pipefy](https://www.pipefy.com/pt-br/) clone made from [drag'n drop Rocketseat's class.](https://www.youtube.com/results?search_query=drag+%27n+drop+rocketseat).
 
-## Detalhes sobre o projeto
+## Details
 
-Esse projeto possui a propriedade de Drag'n Drop, que é o fato de podermos arrastar coisas, no caso desse projeto, podemos arrastar os cards de uma fila para outra.
-O layout não está 100% fiel ao layout do Pipefy, porém acrescentei o máximo de itens personalizáveis.
+You can drag an drop tasks from a list to another. 
 
-![Imagem final do projeto](https://raw.githubusercontent.com/diegoAndrade777/rocketfy/master/src/assets/imagem-final-projeto.png)
+![Project image](https://raw.githubusercontent.com/diegoAndrade777/rocketfy/master/src/assets/imagem-final-projeto.png)
 
-## Utilizando o projeto
+## Running Project
 
-Após realizar o git clone desse repositório, realize os passos a seguir:
+After clone the repo, run these commands:
 
-- Para atualizar os pacotes e dependências necessárias:
+- To install project's dependencies:
   `yarn`
 
-- Para rodar o projeto:
+- To run project:
   `yarn start`
 
-## Tecnologias utilizadas
+## Used techs
 
 - IMMER
 - ESLint
@@ -28,8 +27,3 @@ Após realizar o git clone desse repositório, realize os passos a seguir:
 - React Icons
 - Styled Icons
 - Styled Components
-
-### Autora
-
-- Para estar sempre atualizado(a) com meus artigos, [acesse aqui meu blog.](http://ildaneta.netlify.com/)
-- [Ilda Neta - Linkedin](https://www.linkedin.com/in/ilda-silva-neta/)
