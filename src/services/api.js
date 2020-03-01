@@ -12,7 +12,7 @@ export function loadLists() {
           priority: 'Medium',
           labels: ['#5BC25B'],
           user:
-            'https://github.com/diegoAndrade777/rocketfy/master/src/assets/diego-fernandes.png'
+            'https://github.com/diegoAndrade777/rocketfy/tree/master/src/assets/diego-fernandes.png'
         },
         {
           id: 2,
